@@ -17,7 +17,7 @@ getgenv().setting = {
         delay = 0.2
     },
     ESP = {
-        Enabled = true,
+        Enabled = false,
         Box_Color = Color3.new(1, 1, 1),
         BoxEsp = true,
         NameEsp = true,
